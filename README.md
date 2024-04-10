@@ -13,4 +13,6 @@ This project takes a dataset of Walmart Employee Reviews and performs the follow
     - make it more user friendly by asking for an input (the state abbreviation), and be prepared to plot the curve and data points for any state
 - Bootstrapping
 - Classification
+     
 - Feature Engineering 
+    - 
