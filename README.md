@@ -9,3 +9,5 @@ This project takes a dataset of Walmart Employee Reviews and performs the follow
 - Bootstrapping
 - Classification
 - Feature Engineering 
+    - Location based
+        - 
