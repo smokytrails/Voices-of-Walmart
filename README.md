@@ -19,4 +19,3 @@ This project takes a dataset of Walmart Employee Reviews and performs the follow
 
 Future Improvements:
 - clean the 'review' column before creating the word cloud to keep only adjectives for better inference
-- 
