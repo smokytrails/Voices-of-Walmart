@@ -13,6 +13,10 @@ This project takes a dataset of Walmart Employee Reviews and performs the follow
     - make it more user friendly by asking for an input (the state abbreviation), and be prepared to plot the curve and data points for any state
 - Bootstrapping
 - Classification
-     
+     - decision tree using gini index
 - Feature Engineering 
-    - 
+    - matched minimum wage with year and state from 2011 to 2020
+
+Future Improvements:
+- clean the 'review' column before creating the word cloud to keep only adjectives for better inference
+- 
